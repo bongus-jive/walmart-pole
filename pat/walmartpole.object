@@ -1,0 +1,34 @@
+{
+  "objectName" : "pat_walmartpole",
+  "colonyTags" : ["misc"],
+  "rarity" : "Legendary",
+  "category" : "walmart pole",
+  "race" : "generic",
+  "price" : 3,
+	
+  "description" : "walmart pole",
+  "shortdescription" : "walmart pole",
+
+  "inventoryIcon" : "walmartpole.png",
+  "orientations" : [
+    {
+      "image" : "walmartpole.png:<color>",
+      "imagePosition" : [-5, 0],
+
+      "direction" : "left",
+      "flipImages" : true,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    },
+    {
+      "image" : "walmartpole.png:<color>",
+      "imagePosition" : [-5, 0],
+
+      "direction" : "right",
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}
