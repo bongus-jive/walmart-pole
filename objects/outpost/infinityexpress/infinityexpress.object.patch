@@ -1,14 +1,14 @@
 [
   {
     "op": "add",
-    "path": "/interactData/items/0",
+    "path": "/interactData/items/-",
     "value": {
       "item": "pat_walmartpole"
     }
   },
   {
     "op": "add",
-    "path": "/interactData/items/1",
+    "path": "/interactData/items/-",
     "value": {
       "item": "pat_targetball"
     }
