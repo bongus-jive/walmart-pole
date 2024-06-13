@@ -13,7 +13,7 @@
   "orientations" : [
     {
       "dualImage" : "walmartpole.png:<color>",
-      "imagePosition" : [-5, 0],
+      "imagePosition" : [0, -8],
       "spaceScan" : 0.1,
       "anchors" : [ "bottom" ]
     }
