@@ -12,21 +12,8 @@
   "inventoryIcon" : "targetball.png",
   "orientations" : [
     {
-      "image" : "targetball.png:<color>",
+      "dualImage" : "targetball.png:<color>",
       "imagePosition" : [-5, 0],
-
-      "direction" : "left",
-      "flipImages" : true,
-
-      "spaceScan" : 0.1,
-      "anchors" : [ "bottom" ]
-    },
-    {
-      "image" : "targetball.png:<color>",
-      "imagePosition" : [-5, 0],
-
-      "direction" : "right",
-
       "spaceScan" : 0.1,
       "anchors" : [ "bottom" ]
     }
