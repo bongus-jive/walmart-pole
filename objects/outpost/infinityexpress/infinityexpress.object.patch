@@ -3,14 +3,16 @@
     "op": "add",
     "path": "/interactData/items/-",
     "value": {
-      "item": "pat_walmartpole"
+      "item": "pat_walmartpole",
+      "price": 3
     }
   },
   {
     "op": "add",
     "path": "/interactData/items/-",
     "value": {
-      "item": "pat_targetball"
+      "item": "pat_targetball",
+      "price": 8
     }
   }
 ]
