@@ -1,1 +1,7 @@
-[{"op": "add", "path": "/pat_walmartpole", "value" : 1}]
+[
+  {
+    "op": "add",
+    "path": "/pat_walmartpole",
+    "value": 1
+  }
+]

@@ -1,21 +1,21 @@
 {
-  "objectName" : "pat_targetball",
-  "colonyTags" : ["misc"],
-  "rarity" : "Uncommon",
-  "category" : "target ball",
-  "race" : "generic",
-  "price" : 40,
-	
-  "description" : "target ball",
-  "shortdescription" : "target ball",
+  "objectName": "pat_targetball",
+  "colonyTags": [ "misc" ],
+  "rarity": "Uncommon",
+  "category": "target ball",
+  "race": "generic",
+  "price": 40,
 
-  "inventoryIcon" : "targetballicon.png",
-  "orientations" : [
+  "description": "target ball",
+  "shortdescription": "target ball",
+
+  "inventoryIcon": "targetballicon.png",
+  "orientations": [
     {
-      "dualImage" : "targetball.png:<color>",
-      "imagePosition" : [-8, -8],
-      "spaceScan" : 0.1,
-      "anchors" : [ "bottom" ]
+      "dualImage": "targetball.png:<color>",
+      "imagePosition": [ -8, -8 ],
+      "spaceScan": 0.1,
+      "anchors": [ "bottom" ]
     }
   ]
 }

@@ -1,21 +1,21 @@
 {
-  "objectName" : "pat_walmartpole",
-  "colonyTags" : ["misc"],
-  "rarity" : "Uncommon",
-  "category" : "walmart pole",
-  "race" : "generic",
-  "price" : 15,
-	
-  "description" : "walmart pole",
-  "shortdescription" : "walmart pole",
+  "objectName": "pat_walmartpole",
+  "colonyTags": [ "misc" ],
+  "rarity": "Uncommon",
+  "category": "walmart pole",
+  "race": "generic",
+  "price": 15,
 
-  "inventoryIcon" : "walmartpoleicon.png",
-  "orientations" : [
+  "description": "walmart pole",
+  "shortdescription": "walmart pole",
+
+  "inventoryIcon": "walmartpoleicon.png",
+  "orientations": [
     {
-      "dualImage" : "walmartpole.png:<color>",
-      "imagePosition" : [0, -8],
-      "spaceScan" : 0.1,
-      "anchors" : [ "bottom" ]
+      "dualImage": "walmartpole.png:<color>",
+      "imagePosition": [ 0, -8 ],
+      "spaceScan": 0.1,
+      "anchors": [ "bottom" ]
     }
   ]
 }
