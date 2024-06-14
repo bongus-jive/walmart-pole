@@ -1,7 +1,7 @@
 {
   "objectName" : "pat_targetball",
   "colonyTags" : ["misc"],
-  "rarity" : "Legendary",
+  "rarity" : "Uncommon",
   "category" : "target ball",
   "race" : "generic",
   "price" : 40,
