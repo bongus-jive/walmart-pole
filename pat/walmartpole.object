@@ -9,7 +9,7 @@
   "description" : "walmart pole",
   "shortdescription" : "walmart pole",
 
-  "inventoryIcon" : "walmartpole.png",
+  "inventoryIcon" : "walmartpoleicon.png",
   "orientations" : [
     {
       "dualImage" : "walmartpole.png:<color>",

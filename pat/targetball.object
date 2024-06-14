@@ -9,7 +9,7 @@
   "description" : "target ball",
   "shortdescription" : "target ball",
 
-  "inventoryIcon" : "targetball.png",
+  "inventoryIcon" : "targetballicon.png",
   "orientations" : [
     {
       "dualImage" : "targetball.png:<color>",
